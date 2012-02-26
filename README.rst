@@ -16,6 +16,7 @@ Development Guidelines
 ======================
 
 Globaleaks uses three main branches for development:
+
   - `master` - which contains an aproximately stable revision of the repo, code
              clean (which means >= 6 over pylnt) ready for deployment.
   - `backend-devel` - used to keep track of changes over the backend/ directory.
